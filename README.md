@@ -1,5 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 ## Alexander Siminski
+
 - 🔭 I’m currently working on project for Telenet Be.
 - 🌱 I’m currently learning MongoDB
 - 💬 Ask me about Java, Spring
