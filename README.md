@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"><img src="https://i.imgur.com/v0kd6eZ.mp4"/></p>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <!--
 **ALXSIMINSKI/ALXSIMINSKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
