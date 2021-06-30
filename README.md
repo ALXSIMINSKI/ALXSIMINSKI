@@ -3,7 +3,7 @@
 ## Alexander Siminski
 
 - 🔭 I’m currently working on project for Telenet Be.
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Docker
 - 💬 Ask me about Java
 - 📫 How to reach me: https://www.linkedin.com/in/aliaksandr-siminski-469384127/
 
