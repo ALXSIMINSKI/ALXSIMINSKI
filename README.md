@@ -3,7 +3,7 @@
 ## Alexander Siminski
 
 - 🔭 I’m currently working on project for Charles Schwab
-- 🌱 I’m currently learning Spring Batch lib.
+- 🌱 I’m currently learning Apache POI
 - 💬 Ask me about Java
 - 📫 How to reach me: https://www.linkedin.com/in/aliaksandr-siminski-469384127/
 
