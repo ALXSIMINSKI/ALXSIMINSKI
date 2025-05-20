@@ -2,8 +2,8 @@
 
 ## Alexander Siminski
 
-- 🔭 I’m currently working on project for CompatibL
-- 🌱 I’m currently learning Apache Parquet
+- 🔭 I’m currently working on fin-tech project for CompatibL
+- 🌱 I’m currently learning Kafka
 - 💬 Ask me about Java
 - 📫 How to reach me: https://www.linkedin.com/in/aliaksandr-siminski-469384127/
 
